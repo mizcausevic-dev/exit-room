@@ -2,8 +2,8 @@
 
 Exit-readiness intelligence surface for red flags, diligence gaps, board narrative strength, and investor-facing deal posture across the Kinetic Gain executive-intelligence estate.
 
-- Live: `http://exit.kineticgain.com/`
-- Status: `v0.1-shipped`
+- Live: `https://exit.kineticgain.com/`
+- Status: `v1.0-prod`
 
 ## What it does
 
